@@ -1,3 +1,5 @@
+#Kurt, Frank, and Eli
+#10-18-19
 from turtle import *
 hideturtle()
 def background():#Frank Carter, draws in a background for the cityscape
